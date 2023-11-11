@@ -1,0 +1,108 @@
+.header{
+    color: var(--1, #565656);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.b-header{
+    background-color: #1D1D1D;
+    width: 100%;
+    height: 72px;
+    position: relative;
+    top: 20px;
+    left: -601px;
+
+}
+
+.header-svg{
+    position: relative;
+    left: -142px;
+    top: -13px;
+}
+
+.Sale-btn{
+    background-color: #ED1331;
+    color: white;
+    border-radius: 50px;
+    border: none;
+    display: flex;
+    padding: 13px 27px;
+    align-items: flex-start;
+    gap: 10px;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%; /* 14px */
+    text-transform: uppercase;
+    position: relative;
+    top: 17px;
+    left: 409px;
+}
+
+.woman-btn{
+    position: relative;
+    top: -21px;
+    left: 544px;
+    background: none;
+    color: white;
+    border: none;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%; /* 14px */
+    text-transform: uppercase;
+}
+
+.man-btn{
+    position: relative;
+    top: -21px;
+    left: 600px;
+    background: none;
+    color: white;
+    border: none;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%; /* 14px */
+    text-transform: uppercase;
+}
+
+.kids-btn{
+    position: relative;
+    top: -21px;
+    left: 650px;
+    background: none;
+    color: white;
+    border: none;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%; /* 14px */
+    text-transform: uppercase;
+}
+
+.svgs{
+    position: relative;
+    top: -42px;
+    left: 1500px;
+    gap: 20px;
+}
+
+.header-lorem{
+    position: relative;
+    top: 20px;
+    left: 600px;
+}
+
+
+

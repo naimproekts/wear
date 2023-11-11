@@ -1,0 +1,295 @@
+.img1{
+    background-image: url('../img/Frame 48095787.png');
+    height: 640px;
+    width: 470px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.img2{
+    background-image: url('../img/Frame 48095788.png');
+    height: 640px;
+    width: 470px;
+    position: relative;
+    top: -540px;
+    left: 570px;
+}
+
+.img3{
+    background-image: url('../img/Frame 48095789.png');
+    height: 640px;
+    width: 460px;
+    position: absolute;
+    top: 188px;
+    left: 1040px;
+}
+
+.texts{
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 24px;
+    position: relative;
+    left: 539px;
+    top: -1223px;
+    color: var(--1, #565656);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%;
+    text-transform: uppercase;
+}
+
+.catalog{
+    background-color: rgba(255, 255, 255, 0.70);
+    width: 607px;
+    height: 381px;
+    border-radius: 20px;
+    backdrop-filter: blur(2.5px);
+    flex-shrink: 0;
+    position: absolute;
+    top: 319px;
+    left: 501px;
+}
+
+.catalog-text{
+    color: #1D1D1D;
+    font-family: Montserrat;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%; /* 64px */
+    position: absolute;
+    top: 60px;
+    left: 126px;
+}
+
+.catalog-20{
+    color: #1D1D1D;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%;
+    position: absolute;
+    top: 151px;
+    left: 121px;
+}
+
+.catalog-btn{
+    display: flex;
+    width: 173px;
+    height: 50px;
+    padding: 13px 21px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 50px;
+    background: #404444;
+    border: none;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%; /* 14px */
+    text-transform: uppercase;
+    position: absolute;
+    top: 221px;
+    left: 198px;
+}
+
+.catergor-img-1{
+    background-image: url('../img/Rectangle 156.png');
+    width: 1258px;
+    height: 539px;
+    position: relative;
+    top: -1434px;
+    left: 75px;
+}
+
+.popular-text{
+    color: #1D1D1D;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%;
+    position: relative;
+    left: 75px;
+    top: -6013px;
+}
+
+.popular-img1{
+    background-image: url('../img/Rectangle 157-3.png');
+    width: 299px;
+    height: 579px;
+    position: relative;
+    top: -1518px;
+    left: 76px;
+}
+
+.actual-img{
+    background-image: url('../img/Rectangle 156.png');
+    position: relative;
+    width: 308px;
+    height: 283px;
+    top: -4413px;
+    left: 75px;
+}
+
+.Actual-text{
+    color: #1D1D1D;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%;
+    position: relative;
+    top: -4436px;
+    left: 75px;
+}
+
+.donate-svg{
+    position: relative;
+    width: 1700px;
+    height: 232px;
+    flex-shrink: 0;
+    background-color: #FFC803;
+    top: -5142px;
+}
+
+.donate-button{
+    width: 182px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #000;
+    position: relative;
+    top: 120px;
+    left: 450px;
+    border: none;
+    color: white;
+}
+
+.donate-input{
+    width: 550px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #FFF;
+    position: relative;
+    top: 120px;
+    left: 631px;
+    border: none;
+}
+
+.categor-h2{    
+    color: #1D1D1D;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    position: relative;
+    line-height: 100%;
+    top: -1466px;
+    left: 532px;
+}
+
+.categor-img-1{
+    background-image: url('../img/siniychel.png');
+    width: 382px;
+    height: 544px;
+    position: relative;
+    top: -1570px;
+    left: 75px;
+}
+
+.categor-text{
+    color: var(--1, #565656);
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    width: 717px;
+    left: 532px;
+    position: relative;
+    top: -1443px;
+}
+
+.categor-img-first{
+    background-image: url('../img/но это ориг.png');
+    width: 202px;
+    height: 300px;
+    position: relative;
+    top: -1312px;
+    left: 533px;
+}
+
+.categor-img-2{
+    background-image: url('../img/Rectangle 157.png');
+    width: 206px;
+    height: 301px;
+    position: relative;
+    top: -1612px;
+    left: 786px;
+}
+
+.categor-img-3{
+    background-image: url('../img/Rectangle 157-1.png');
+    width: 206px;
+    height: 301px;
+    position: relative;
+    top: -1915px;
+    left: 1036px;
+}
+
+.categor-img-4{
+    background-image: url('../img/Rectangle 157.png');
+    width: 206px;
+    height: 301px;
+    position: relative;
+    top: -2215px;
+    left: 1299px;
+}
+
+.swiper{
+    position: relative;
+    top: 1206px;
+}
+
+.swiper-wrapper{
+    position: relative;
+    top: -1258px;
+}
+
+.catergor{
+    position: relative;
+    top: -4490px;
+}
+
+.actual-img-2{
+    background-image: url('../img/Rectangle 156-1.png');
+    position: relative;
+    width: 308px;
+    height: 283px;
+    top: -4338px;
+    left: 75px;
+}
+
+.actual-img-3{
+    background-image: url('../img/Rectangle 160.png');
+    position: relative;
+    width: 950px;
+    height: 646px;
+    top: -4984px;
+    left: 452px;
+}
+
+.all-actual{
+    position: relative;
+    top: -896px;
+}
+
